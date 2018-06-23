@@ -12,7 +12,7 @@ public class MemoMain {
 	List<Memo> memoList = new ArrayList<>();
 	Map<String, List<Memo>> searchMemo = new HashMap<>();
 	
-	void run() {
+	void run() {  
 		boolean run=true;
 			while(run) {
 				System.out.print("1. 글 생성하기\n2. 글 조회하기\n3. 글 수정하기\n4. 종료\n입력>");
