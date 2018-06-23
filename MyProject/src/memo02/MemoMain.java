@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
+ 
 public class MemoMain {
 	Scanner scanner = new Scanner(System.in);
 	List<Memo> memoList = new ArrayList<>();

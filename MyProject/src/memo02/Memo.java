@@ -1,7 +1,7 @@
 package memo02;
 
 public class Memo {
-	
+	  
 	String title;
 	String text;
 	String tag;
