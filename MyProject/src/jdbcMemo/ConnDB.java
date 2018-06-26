@@ -2,7 +2,7 @@ package jdbcMemo;
  
 import java.sql.Connection;
 import java.sql.DriverManager;
-
+ 
 public class ConnDB {
 	//필드(해당클래스 타입의 instance)
 	static ConnDB instance=new ConnDB();
