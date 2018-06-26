@@ -9,7 +9,7 @@ public class Memo {
 	public Memo(String title, String text, String tag) {
 		this.title = title;
 		this.text = text;
-		this.tag = tag;
+		this.tag = tag; 
 	}
 	
 	public String getTitle() {
