@@ -1,5 +1,5 @@
 package jdbcMemo;
-
+ 
 public class Memo {
   String title;
   String text;
